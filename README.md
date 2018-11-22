@@ -9,9 +9,4 @@ This playground is a project for building Serverless functions with Docker and K
 - Event-driven architecture
 - Manage streaming workloads and leveraging service meshes using Istio
 
-## OpenFaaS Highlights
-- Portable - runs on existing hardware or public/private cloud - Kubernetes 
-- CLI available with YAML format for templating and defining functions
-- Auto-scales as demand increases including to zero
-
 <img src="https://image.ibb.co/iAtbkV/serverless-2.jpg"/>

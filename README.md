@@ -3,7 +3,9 @@ This playground is a project for building Serverless functions with Docker and K
 
 ## Features
 - Ease of use through UI portal and one-click install
-- Write job functions in any language supported by Apache Spark (Java, Scala, Python, R) and package in Docker/OCI image format
+- Write job functions in any language supported by Apache Spark (Java, Python, R, Scala) and package in Docker/OCI image format
+- Coordinate multiple job functions into serverless workflows so you can build and update bigdata apps quickly.
+- Manage streaming workloads and leveraging service meshes using Istio
 
 ## OpenFaaS Highlights
 - Portable - runs on existing hardware or public/private cloud - Kubernetes 

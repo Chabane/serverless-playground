@@ -9,4 +9,3 @@ This playground is a project for building Serverless functions with Docker and K
 - Event-driven architecture
 - Manage streaming workloads and leveraging service meshes using Istio
 
-<img src="https://image.ibb.co/iAtbkV/serverless-2.jpg"/>

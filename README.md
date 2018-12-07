@@ -1,5 +1,5 @@
 # Serverless Playground
-This playground is a project for building Serverless functions with Docker and Kubernetes which has first-class support for metrics. Any code supported by OpenFaaS can be packaged as a function enabling you to consume a range of web events without repetitive boiler-plate coding.
+This playground is a project for building Serverless workflow with OpenFaaS and Kubernetes. Any code supported by OpenFaaS can be packaged as a function enabling you to consume a range of web events without repetitive boiler-plate coding.
 
 ## Features
 - Run serverless apps without provisioning or managing servers
